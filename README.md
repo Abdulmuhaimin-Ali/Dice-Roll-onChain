@@ -1,7 +1,3 @@
-# Dice-Roll-onChain
-Dice-Roll-onChain
-
-
 # 🎲 Dice Roll on Chain
 
 ![Project Banner](./images/banner.png)
