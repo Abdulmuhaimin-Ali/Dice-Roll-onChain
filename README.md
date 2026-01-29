@@ -37,5 +37,5 @@ A blockchain-powered dice roll game leveraging Starknet's Layer 2 technology for
 
 ## Team
 
-- Your Name - Developer
+- Muhaimin Ali - Developer
 - Connor Liu - Developer
